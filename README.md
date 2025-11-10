@@ -4,8 +4,6 @@ _Welcome to the mission : Code Secure!_ :wave:
 
 To get started, please follow the 🛠️ set up guide.
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=nsakjinh-ui&template_name=Mission-Code-Secure&owner=%40me&name=mission-code-secure&description=Repository+created+from+Mission-Code-Secure+template&visibility=public)
-
 [![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=nsakjinh-ui&template_name=mission-code-secure-02122025&owner=%40me&name=mission-code-secure-02122025&description=Repository+created+from+mission-code-secure-02122025+template&visibility=public)
 
 
