@@ -1,0 +1,5 @@
+Simulate an attack by following these steps:
+
+1. Start the application as instructed in 'code.py'
+2. Enter the following in the planet input field: 
+&ltimg src="x" onerror="document.body.innerHTML = 'Website is hacked';"&gt
